@@ -1,2 +1,2 @@
-# WoSDumper
-Web of Science Web Services Python data dumper
+# WoSPythonClient
+Web of Science Web Services Python client
